@@ -1,6 +1,6 @@
 # man  is  ai
 
-https://github.com/nftmax2022/man/blob/11bc6842d1593abaa9afb9092f2a522bfcea4dfd/611.png?raw=true
+（https://github.com/nftmax2022/man/blob/11bc6842d1593abaa9afb9092f2a522bfcea4dfd/611.png?raw=true）
 
 ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by OpenAI or Anthropic LLMs.
 
