@@ -1,4 +1,4 @@
-# ZerePy
+# man  is  ai
 
 ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by OpenAI or Anthropic LLMs.
 
